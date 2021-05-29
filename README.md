@@ -7,7 +7,7 @@
 
 I am a mobile application developer focused on iOS application development since 2011. <br/>
 I make games and softwares. <br/>
-Recently I am working on multimedia, technical communication is welcome. <br/>
+Recently I am working on multimedia. <br/>
 
 ---
 
