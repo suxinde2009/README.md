@@ -2,6 +2,10 @@
 ### Hi there, 👋
 
 [![Suxinde2009's github stats](https://github-readme-stats.vercel.app/api?username=suxinde2009&theme=radical&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suxinde2009&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ---
 
