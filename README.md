@@ -17,7 +17,7 @@ Recently I am working on multimedia. <br/>
 
 - 🔭 I’m currently working on <u><span>iOS/Android/Multimedia</span></u>.
 - 🌱 I’m currently learning <u><span1>kotlin/flutter/React Native</span1></u>.
-- 🤔 I’m looking for help with <u><purple_gradient>ffmpeg/webrtc/audio/opengles</purple_gradient></u>.
+- 🤔 I’m looking for help with <u><span4>ffmpeg/webrtc/audio/opengles</span4></u>.
 
 ---
 
@@ -49,7 +49,7 @@ Recently I am working on multimedia. <br/>
         color: transparent;
 	}	
 	
-	purple_gradient {
+	span4 {
         background: linear-gradient(to right, #DA22FF, #9733EE);
         -webkit-background-clip: text;
         color: transparent;
