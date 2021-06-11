@@ -15,44 +15,12 @@ Recently I am working on multimedia. <br/>
 
 ---
 
-- 🔭 I’m currently working on <u><span>iOS/Android/Multimedia</span></u>.
-- 🌱 I’m currently learning <u><span1>kotlin/flutter/React Native</span1></u>.
-- 🤔 I’m looking for help with <u><span4>ffmpeg/webrtc/audio/opengles</span4></u>.
+- 🔭 I’m currently working on <u>iOS/Android/Multimedia</u>.
+- 🌱 I’m currently learning <u>kotlin/flutter/React Native</u>.
+- 🤔 I’m looking for help with <u>ffmpeg/webrtc/audio/opengles</u>.
 
 ---
 
 ![coding](./res/code.gif)
 
 
-<style>
-    span {
-        background: linear-gradient(to right, #16A085, #F4D03F);
-        -webkit-background-clip: text;
-        color: transparent;
-	}
-	
-	span1 {
-        background: linear-gradient(to right, #02AAB0, #00CDAC);
-        -webkit-background-clip: text;
-        color: transparent;
-	}
-	
-	span2 {
-        background: linear-gradient(to right, #3CA55C, #B5AC49);
-        -webkit-background-clip: text;
-        color: transparent;
-	}
-	
-	span3 {
-        background: linear-gradient(to right, #0052D4, #4364F7, #6FB1FC);
-        -webkit-background-clip: text;
-        color: transparent;
-	}	
-	
-	span4 {
-        background: linear-gradient(to right, #DA22FF, #9733EE);
-        -webkit-background-clip: text;
-        color: transparent;
-	}		
-	
-</style>
