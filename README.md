@@ -1,10 +1,15 @@
 
 ### Hi there, 👋
 
-[![Suxinde2009's github stats](https://github-readme-stats.vercel.app/api?username=suxinde2009&theme=radical&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suxinde2009&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suxinde2009&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suxinde2009&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suxinde2009&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suxinde2009&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suxinde2009&theme=github)
+
+
+
 <br/>
 
 ---
