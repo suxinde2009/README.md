@@ -21,7 +21,7 @@ Here are some quick things about me:
 ```js
 
 function tryToUnderstand(point) {
-    if (known(point)) { return 'Aha'}
+    if (known(point)) { return 'Aha' }
     const smallPoints = split(point)
     smallPoints?.map(tryToUnderstand)
 }
