@@ -16,4 +16,14 @@ Here are some quick things about me:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suxinde2009&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suxinde2009&theme=github)
 
+<br/>
 
+```js
+
+function tryToUnderstand(point) {
+    if (known(point)) { return 'Aha'}
+    const smallPoints = split(point)
+    smallPoints?.map(tryToUnderstand)
+}
+
+```
